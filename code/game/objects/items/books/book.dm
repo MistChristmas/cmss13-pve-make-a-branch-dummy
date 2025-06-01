@@ -40,7 +40,7 @@
 			to_chat(user, SPAN_NOTICE("The pages of [title] have been cut out!"))
 			return
 	if(src.dat)
-		show_browser(user, "<body class='paper'>[author ? "<TT><I>Author: [author].</I></TT>" : ""] <BR>[dat]</body>","[title]", "window=book", width = 800, height = 600)
+		show_browser(user, "<body class='paper'>[author ? "<TT><I>Author: [author].</I></TT>" : ""] <BR>[dat]</body>","[title]", "window=book", width = 900, height = 600)
 		user.visible_message("[user] opens \"[src.title]\".")
 		onclose(user, "book")
 	else

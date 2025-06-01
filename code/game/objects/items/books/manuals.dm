@@ -40,9 +40,9 @@
 		<html><head>
 		</head>
 
-		<body>
-		<iframe style="width:100%; height:85vh;" src="https://cm-ss13.com/w/images/f/f1/Test-ColonialDispatch.webp" frameborder="0" id="main_frame"></iframe>
-		</body>
+		<div style="text-align:center">
+		<iframe style="width: 880px; height:85vh;" src="https://cm-ss13.com/w/images/f/f1/Test-ColonialDispatch.webp" frameborder="0" id="main_frame"></iframe>
+		</div>
 
 		</html>
 
