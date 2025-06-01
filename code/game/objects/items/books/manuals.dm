@@ -28,6 +28,25 @@
 
 		"}
 
+/obj/item/book/manual/newspaper
+	name = "The Colonial Dispatch"
+	author = null
+	icon = 'icons/obj/items/paper.dmi'
+	icon_state = "newspaper"
+	title = "Issue MMMMDXLIV"
+
+	dat = {"
+
+		<html><head>
+		</head>
+
+		<body>
+		<iframe style="width:100%; height:85vh;" src="https://cm-ss13.com/w/images/f/f1/Test-ColonialDispatch.webp" frameborder="0" id="main_frame"></iframe></body>
+		</body>
+
+		</html>
+
+		"}
 
 /obj/item/book/manual/engineering_hacking
 	name = "Hacking"
