@@ -33,7 +33,7 @@
 	author = null
 	icon = 'icons/obj/items/paper.dmi'
 	icon_state = "newspaper"
-	title = "Issue MMMMDXLIV"
+	title = "Issue MMMMDCCXLIV"
 
 	dat = {"
 
